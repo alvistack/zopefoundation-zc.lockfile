@@ -1,0 +1,5 @@
+python-zc.lockfile source: file-without-copyright-information
+python-zc.lockfile source: no-debian-changes
+python-zc.lockfile source: source-contains-prebuilt-windows-binary
+python-zc.lockfile source: source-is-missing
+python-zc.lockfile source: source-package-encodes-python-version
