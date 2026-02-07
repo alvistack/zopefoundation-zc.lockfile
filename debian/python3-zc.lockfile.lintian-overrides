@@ -1,0 +1,4 @@
+python3-zc.lockfile: copyright-without-copyright-notice
+python3-zc.lockfile: initial-upload-closes-no-bugs
+python3-zc.lockfile: no-manual-page
+python3-zc.lockfile: zero-byte-file-in-doc-directory

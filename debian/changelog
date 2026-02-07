@@ -1,0 +1,5 @@
+python-zc.lockfile (100:2.0-1) UNRELEASED; urgency=medium
+
+  * https://github.com/zopefoundation/zc.lockfile/releases/tag/2.0
+
+ -- Wong Hoi Sing Edison <hswong3i@pantarei-design.com>  Mon, 08 Sep 2025 18:47:24 +0800
